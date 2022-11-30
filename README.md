@@ -89,6 +89,6 @@ Thay ảnh "images/background/bottom.jpg" thành ảnh mong muốn (nếu cần 
 ```
 
 ## Hướng dẫn deploy lên github.io 
+- [Các cách tạo web tĩnh với Github](https://techmaster.vn/posts/36510/cac-cach-tao-web-tinh-voi-github)
+- [DNS domain về Github Page và thiết lập SSL free thông qua Cloudflare](https://chungtran4078.github.io/dns-domain-to-github-page-ssl-cloudflare/)
 
-
-## Kết
